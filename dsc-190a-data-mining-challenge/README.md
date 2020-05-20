@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# data-science-competitions
-Competing in solving real-world big data problems
-=======
 # UCSD DSC 190 Data Mining Challenge ([Kaggle](https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining/leaderboard))
 
 Dataset: New York Airbnb Dataset <br />
